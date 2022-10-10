@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\19434551_HoThiHongThuy_Java\.metadata\.plugins\org.eclipse.jdt.core
+2064579449.index
+4015434909.index
+2979724094.index
+1865797976.index
+4106723028.index
