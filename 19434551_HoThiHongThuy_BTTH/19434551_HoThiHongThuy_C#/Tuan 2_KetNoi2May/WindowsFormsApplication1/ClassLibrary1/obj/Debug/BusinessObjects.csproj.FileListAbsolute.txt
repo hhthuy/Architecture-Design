@@ -1,0 +1,15 @@
+T:\19530041_DoThiTuongVi\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+T:\19530041_DoThiTuongVi\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+T:\19530041_DoThiTuongVi\WindowsFormsApplication1\ClassLibrary1\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+T:\19530041_DoThiTuongVi\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+T:\19530041_DoThiTuongVi\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Student\Downloads\19530041_DoThiTuongVi\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Student\Downloads\19530041_DoThiTuongVi\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Student\Downloads\19530041_DoThiTuongVi\WindowsFormsApplication1\ClassLibrary1\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\19530041_DoThiTuongVi\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Student\Downloads\19530041_DoThiTuongVi\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+T:\19434551_HoThiHongThuy\19434551_HoThiHongThuy\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+T:\19434551_HoThiHongThuy\19434551_HoThiHongThuy\WindowsFormsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+T:\19434551_HoThiHongThuy\19434551_HoThiHongThuy\WindowsFormsApplication1\ClassLibrary1\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+T:\19434551_HoThiHongThuy\19434551_HoThiHongThuy\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+T:\19434551_HoThiHongThuy\19434551_HoThiHongThuy\WindowsFormsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

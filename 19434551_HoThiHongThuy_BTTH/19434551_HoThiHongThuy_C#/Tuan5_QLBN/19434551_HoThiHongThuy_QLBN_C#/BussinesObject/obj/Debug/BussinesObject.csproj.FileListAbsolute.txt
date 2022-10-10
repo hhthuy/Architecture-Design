@@ -1,0 +1,11 @@
+T:\19486011_PhanVoTrong\BussinesObject\BussinesObject\bin\Debug\BussinesObject.dll
+T:\19486011_PhanVoTrong\BussinesObject\BussinesObject\bin\Debug\BussinesObject.pdb
+T:\19486011_PhanVoTrong\BussinesObject\BussinesObject\obj\Debug\BussinesObject.csprojResolveAssemblyReference.cache
+T:\19486011_PhanVoTrong\BussinesObject\BussinesObject\obj\Debug\BussinesObject.dll
+T:\19486011_PhanVoTrong\BussinesObject\BussinesObject\obj\Debug\BussinesObject.pdb
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\BussinesObject\bin\Debug\BussinesObject.dll
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\BussinesObject\bin\Debug\BussinesObject.pdb
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\BussinesObject\obj\Debug\BussinesObject.csproj.AssemblyReference.cache
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\BussinesObject\obj\Debug\BussinesObject.csproj.CoreCompileInputs.cache
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\BussinesObject\obj\Debug\BussinesObject.dll
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\BussinesObject\obj\Debug\BussinesObject.pdb

@@ -1,0 +1,11 @@
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\MSMQ_Receive\bin\Debug\MSMQ_Receive.exe.config
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\MSMQ_Receive\obj\Debug\MSMQ_Receive.exe
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\MSMQ_Receive\obj\Debug\MSMQ_Receive.pdb
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\MSMQ_Receive\bin\Debug\MSMQ_Receive.exe
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\MSMQ_Receive\bin\Debug\MSMQ_Receive.pdb
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\MSMQ_Receive\bin\Debug\BusinessObjects.dll
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\MSMQ_Receive\bin\Debug\BusinessObjects.pdb
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\MSMQ_Receive\obj\Debug\Tuan 1_MSMQ_Receive.csprojResolveAssemblyReference.cache
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\MSMQ_Receive\obj\Debug\MSMQ_Receive.F_MessageReceive.resources
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\MSMQ_Receive\obj\Debug\MSMQ_Receive.Properties.Resources.resources
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\MSMQ_Receive\obj\Debug\Tuan 1_MSMQ_Receive.csproj.GenerateResource.Cache

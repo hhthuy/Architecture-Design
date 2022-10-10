@@ -1,0 +1,10 @@
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\tuan4_nhan\bin\Debug\tuan4_nhan.exe.config
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\tuan4_nhan\bin\Debug\tuan4_nhan.exe
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\tuan4_nhan\bin\Debug\tuan4_nhan.pdb
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\tuan4_nhan\bin\Debug\Apache.NMS.ActiveMQ.dll
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\tuan4_nhan\bin\Debug\Apache.NMS.dll
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\tuan4_nhan\bin\Debug\Apache.NMS.pdb
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\tuan4_nhan\bin\Debug\Apache.NMS.ActiveMQ.pdb
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\tuan4_nhan\bin\Debug\Apache.NMS.ActiveMQ.xml
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\tuan4_nhan\obj\Debug\tuan4_nhan.exe
+T:\19434551_HoThiHongThuy_NopbaiKTTKHT\tuan4_nhan\obj\Debug\tuan4_nhan.pdb

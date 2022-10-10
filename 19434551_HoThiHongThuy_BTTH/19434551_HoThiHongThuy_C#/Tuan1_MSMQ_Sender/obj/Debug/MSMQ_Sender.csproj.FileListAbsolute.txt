@@ -1,0 +1,13 @@
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Sender\bin\Debug\MSMQ_Sender.exe.config
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Sender\bin\Debug\MSMQ_Sender.exe
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Sender\bin\Debug\MSMQ_Sender.pdb
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Sender\bin\Debug\BusinessObjects.dll
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Sender\bin\Debug\MSMQ_Receive.exe
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Sender\bin\Debug\BusinessObjects.pdb
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Sender\bin\Debug\MSMQ_Receive.pdb
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Sender\obj\Debug\MSMQ_Sender.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Sender\obj\Debug\MSMQ_Sender.F_MessageSender.resources
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Sender\obj\Debug\MSMQ_Sender.Properties.Resources.resources
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Sender\obj\Debug\MSMQ_Sender.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Sender\obj\Debug\MSMQ_Sender.exe
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Sender\obj\Debug\MSMQ_Sender.pdb

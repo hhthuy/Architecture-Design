@@ -1,0 +1,7 @@
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\bin\Debug\Tuan4_Recive.exe.config
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\bin\Debug\Tuan4_Recive.exe
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\bin\Debug\Tuan4_Recive.pdb
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\bin\Debug\Apache.NMS.ActiveMQ.dll
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\bin\Debug\Apache.NMS.dll
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\obj\Debug\Tuan4_Recive.exe
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\obj\Debug\Tuan4_Recive.pdb

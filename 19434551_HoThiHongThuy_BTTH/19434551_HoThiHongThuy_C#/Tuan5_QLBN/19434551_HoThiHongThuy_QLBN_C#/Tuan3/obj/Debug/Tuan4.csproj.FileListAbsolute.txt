@@ -1,0 +1,8 @@
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4\bin\Debug\Tuan4.exe.config
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4\obj\Debug\Tuan4.csprojResolveAssemblyReference.cache
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4\bin\Debug\Tuan4.exe
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4\bin\Debug\Tuan4.pdb
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4\bin\Debug\Apache.NMS.ActiveMQ.dll
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4\bin\Debug\Apache.NMS.dll
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4\obj\Debug\Tuan4.exe
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4\obj\Debug\Tuan4.pdb

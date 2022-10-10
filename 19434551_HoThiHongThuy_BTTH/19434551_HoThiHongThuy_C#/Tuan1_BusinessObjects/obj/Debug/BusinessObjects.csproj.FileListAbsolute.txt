@@ -1,0 +1,5 @@
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\BusinessObjects\bin\Debug\BusinessObjects.dll
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\BusinessObjects\bin\Debug\BusinessObjects.pdb
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\BusinessObjects\obj\Debug\BusinessObjects.dll
+c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\BusinessObjects\obj\Debug\BusinessObjects.pdb
