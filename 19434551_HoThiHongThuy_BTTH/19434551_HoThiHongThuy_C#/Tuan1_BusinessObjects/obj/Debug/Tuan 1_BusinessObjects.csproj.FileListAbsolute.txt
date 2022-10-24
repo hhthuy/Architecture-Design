@@ -1,5 +1,0 @@
-T:\19434551_HoThiHongThuy_NopbaiKTTKHT\BusinessObjects\bin\Debug\BusinessObjects.dll
-T:\19434551_HoThiHongThuy_NopbaiKTTKHT\BusinessObjects\bin\Debug\BusinessObjects.pdb
-T:\19434551_HoThiHongThuy_NopbaiKTTKHT\BusinessObjects\obj\Debug\Tuan 1_BusinessObjects.csprojResolveAssemblyReference.cache
-T:\19434551_HoThiHongThuy_NopbaiKTTKHT\BusinessObjects\obj\Debug\BusinessObjects.dll
-T:\19434551_HoThiHongThuy_NopbaiKTTKHT\BusinessObjects\obj\Debug\BusinessObjects.pdb

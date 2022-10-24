@@ -16,7 +16,7 @@ namespace MSMQ_Receive
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new F_MessageReceive());
+            Application.Run(new Form1());
         }
     }
 }

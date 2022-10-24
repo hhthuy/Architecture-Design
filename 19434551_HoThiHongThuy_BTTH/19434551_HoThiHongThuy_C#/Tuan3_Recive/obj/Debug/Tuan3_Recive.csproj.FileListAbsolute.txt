@@ -1,0 +1,14 @@
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\bin\Debug\Tuan4_Recive.exe.config
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\obj\Debug\Tuan4_Recive.exe
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\obj\Debug\Tuan4_Recive.pdb
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\bin\Debug\Tuan4_Recive.exe.config
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\bin\Debug\Tuan4_Recive.exe
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\bin\Debug\Tuan4_Recive.pdb
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\bin\Debug\Apache.NMS.ActiveMQ.dll
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\bin\Debug\Apache.NMS.dll
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\obj\Debug\Tuan3_Recive.csproj.AssemblyReference.cache
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\obj\Debug\Tuan3_Recive.csproj.SuggestedBindingRedirects.cache
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\obj\Debug\Tuan3_Recive.csproj.CoreCompileInputs.cache
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\obj\Debug\Tuan3_Recive.csproj.CopyComplete
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\obj\Debug\Tuan4_Recive.exe
+E:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\Tuan4_Recive\obj\Debug\Tuan4_Recive.pdb

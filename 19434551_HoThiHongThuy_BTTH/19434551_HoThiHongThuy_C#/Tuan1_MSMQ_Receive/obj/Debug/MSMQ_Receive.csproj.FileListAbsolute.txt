@@ -1,14 +1,16 @@
-c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Receive\bin\Debug\MSMQ_Receive.exe.config
-c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Receive\bin\Debug\MSMQ_Receive.exe
-c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Receive\bin\Debug\MSMQ_Receive.pdb
-c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Receive\bin\Debug\BusinessObjects.dll
-c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Receive\bin\Debug\BusinessObjects.pdb
-c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Receive\obj\Debug\MSMQ_Receive.csprojResolveAssemblyReference.cache
-c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Receive\obj\Debug\MSMQ_Receive.F_MessageReceive.resources
-c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Receive\obj\Debug\MSMQ_Receive.Properties.Resources.resources
-c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Receive\obj\Debug\MSMQ_Receive.csproj.GenerateResource.Cache
-c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Receive\obj\Debug\MSMQ_Receive.exe
-c:\users\student\documents\visual studio 2015\Projects\WindowsFormsApplication1\MSMQ_Receive\obj\Debug\MSMQ_Receive.pdb
-T:\19434551_HoThiHongThuy_KTTKHT\19434551_HoThiHongThuy_KTTKHT\19434551_HoThiHongThuy_C#\19434551_HoThiHongThuy_LabKTTKHT\Tuan1_MSMQ\MSMQ_Receive\bin\Debug\MSMQ_Receive.exe.config
-T:\19434551_HoThiHongThuy_KTTKHT\19434551_HoThiHongThuy_KTTKHT\19434551_HoThiHongThuy_C#\19434551_HoThiHongThuy_LabKTTKHT\Tuan1_MSMQ\MSMQ_Receive\obj\Debug\MSMQ_Receive.exe
-T:\19434551_HoThiHongThuy_KTTKHT\19434551_HoThiHongThuy_KTTKHT\19434551_HoThiHongThuy_C#\19434551_HoThiHongThuy_LabKTTKHT\Tuan1_MSMQ\MSMQ_Receive\obj\Debug\MSMQ_Receive.pdb
+T:\19486011_PhanVoTrong\BussinesObject\MSMQ_Receive\bin\Debug\MSMQ_Receive.exe.config
+T:\19486011_PhanVoTrong\BussinesObject\MSMQ_Receive\bin\Debug\MSMQ_Receive.exe
+T:\19486011_PhanVoTrong\BussinesObject\MSMQ_Receive\bin\Debug\MSMQ_Receive.pdb
+T:\19486011_PhanVoTrong\BussinesObject\MSMQ_Receive\bin\Debug\BussinesObject.dll
+T:\19486011_PhanVoTrong\BussinesObject\MSMQ_Receive\bin\Debug\BussinesObject.pdb
+T:\19486011_PhanVoTrong\BussinesObject\MSMQ_Receive\obj\Debug\MSMQ_Receive.Form1.resources
+T:\19486011_PhanVoTrong\BussinesObject\MSMQ_Receive\obj\Debug\MSMQ_Receive.Properties.Resources.resources
+T:\19486011_PhanVoTrong\BussinesObject\MSMQ_Receive\obj\Debug\MSMQ_Receive.csproj.GenerateResource.Cache
+T:\19486011_PhanVoTrong\BussinesObject\MSMQ_Receive\obj\Debug\MSMQ_Receive.exe
+T:\19486011_PhanVoTrong\BussinesObject\MSMQ_Receive\obj\Debug\MSMQ_Receive.pdb
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\BussinesObject\MSMQ_Receive\bin\Debug\MSMQ_Receive.exe.config
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\BussinesObject\MSMQ_Receive\obj\Debug\MSMQ_Receive.exe
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\BussinesObject\MSMQ_Receive\obj\Debug\MSMQ_Receive.pdb
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\MSMQ_Receive\bin\Debug\MSMQ_Receive.exe.config
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\MSMQ_Receive\obj\Debug\MSMQ_Receive.exe
+T:\19486011_PhanVoTrong\19486011_PhanVoTrong\19486011_PhanVoTrong\MSMQ_Receive\obj\Debug\MSMQ_Receive.pdb

@@ -1,0 +1,8 @@
+Lab 1 (tr11) MICROSOFT MESSAGE QUEUE (MSMQ)
+Lab 2 (tr17) Apache ActiveMQ
+Lab 3 (tr21) MÔ HÌNH POINT-TO-POINT
+Lab 4 (tr26) CODE GỬI VÀ NHẬN BẰNG C#
+Lab 5 (tr30) THỰC THI CHÉO (THI GK) QUAN LY BENH NHAN
+Chạy Sender của Java, Receiver của C#
+Chạy Sender của C#, Receiver của Java
+Lab 6: Web Service

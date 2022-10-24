@@ -3,13 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Messaging;
 
 namespace MSMQ_Sender
 {
     static class Program
     {
-       
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -18,7 +16,7 @@ namespace MSMQ_Sender
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new F_MessageSender());
+            Application.Run(new Form1());
         }
     }
 }
