@@ -22,3 +22,5 @@ Lab 5 (tr30) THỰC THI CHÉO (THI GK)
 2. Chạy Sender của C#, Receiver của Java
 
 THI GK: Thuc hien gui va nhan Oject bang C#/Java (MSMQ/Activequeue)
+
+THI TH TUAN 10: Web service
