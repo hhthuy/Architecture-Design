@@ -1,9 +1,0 @@
-Web service
-Cách chạy-----------------------------
-Chạy xong xong: Click phải Solution > Properties > Multiple startup project > OK
-B1: Click phải OnTap_KTTH(Service) -> Set as StartUp project -> Run (Chorme/Microsoft Edge)
-	+ Bấm add -> nhập thông tin
-	+ Trở về trang chủ service -> Bấm listDS -> Xem thông tin vừa nhập
-B2: Copy link service vừa chạy -> FormInfoSinhVien > References>Add service reference > Address: "link server" > Go >OK
-B3: Click phải FormInfoSinhVien(Client) -> Set as StartUp project -> Run 
-
