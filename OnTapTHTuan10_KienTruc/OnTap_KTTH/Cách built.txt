@@ -10,7 +10,7 @@ B3: Click phải FormInfoSinhVien(Client) -> Set as StartUp project -> Run
 Cách code:
 1/ TẠO WEB SERVICE
 Tạo ASP.NET Web Application
-Click phải project > Add > New Item > Web Service (ASMX) > Add
+Click phải project > Add > New Item > Web Service (ASMX) > Add (===>WebService1.asmx)
 Viết code
 	Tạo class sinhVien.cs
 	Code phương thức ở WebSevice1.asmx
