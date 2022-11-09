@@ -9,9 +9,11 @@ B3: Click phải FormInfoSinhVien(Client) -> Set as StartUp project -> Run
 
 Cách code:
 1/ TẠO WEB SERVICE
-> tạo ASP.NET Web Application
+Tạo ASP.NET Web Application
 Click phải project > Add > New Item > Web Service (ASMX) > Add
 Viết code
+	Tạo class sinhVien.cs
+	Code phương thức ở WebSevice1.asmx
 F5 > run: Microsoft Edge browser
 Service Description > Copy link
 1/ TẠO CLIENT
