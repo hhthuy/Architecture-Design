@@ -29,8 +29,8 @@ THI CK: Design Pattern
 Ôn thi giới hạn gồm 6 mẫu
 
 1/ Nhóm khởi tạo:
-	- Factory Method Pattern
-	- Abstract Factory Pattern
+- Factory Method Pattern
+- Abstract Factory Pattern
   
 2/ Nhóm cấu trúc
 - Bridge Pattern
