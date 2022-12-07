@@ -27,6 +27,7 @@ THI TH TUAN 10: Web service
 
 THI CK: Design Pattern
 Ôn thi giới hạn gồm 6 mẫu
+
 1/ Nhóm khởi tạo:
 	- Factory Method Pattern
 	- Abstract Factory Pattern
