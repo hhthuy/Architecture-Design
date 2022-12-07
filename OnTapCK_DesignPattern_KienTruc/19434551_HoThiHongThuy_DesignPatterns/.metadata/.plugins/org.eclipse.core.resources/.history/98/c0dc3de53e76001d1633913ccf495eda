@@ -1,0 +1,18 @@
+package factory_pattern_car;
+
+public class HonDa implements Car{
+	private String xe;
+	private String cauHinh;
+	private String nhaSX;
+	private String tinhNang;
+	
+	
+
+	@Override
+	public void info() {
+		// TODO Auto-generated method stub
+		System.out.println();
+	}
+	
+
+}

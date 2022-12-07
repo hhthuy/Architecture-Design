@@ -1,0 +1,68 @@
+package factory_pattern_car;
+
+public class HonDa implements Car {
+	private String xe;
+	private String cauHinh;
+	private String nhaSX;
+	private String tinhNang;
+
+	// Contructor
+	public HonDa(String xe, String cauHinh, String nhaSX, String tinhNang) {
+		super();
+		this.xe = xe;
+		this.cauHinh = cauHinh;
+		this.nhaSX = nhaSX;
+		this.tinhNang = tinhNang;
+	}
+
+	public HonDa() {
+		super();
+	}
+
+	// Get/set
+	public String getXe() {
+		return xe;
+	}
+
+	public void setXe(String xe) {
+		this.xe = xe;
+	}
+
+	public String getCauHinh() {
+		return cauHinh;
+	}
+
+	public void setCauHinh(String cauHinh) {
+		this.cauHinh = cauHinh;
+	}
+
+	public String getNhaSX() {
+		return nhaSX;
+	}
+
+	public void setNhaSX(String nhaSX) {
+		this.nhaSX = nhaSX;
+	}
+
+	public String getTinhNang() {
+		return tinhNang;
+	}
+
+	public void setTinhNang(String tinhNang) {
+		this.tinhNang = tinhNang;
+	}
+
+	@Override
+	public void getInfo(String information, String configure, String producer, String feature) {
+		// TODO Auto-generated method stub
+		this.xe = xe;
+		this.cauHinh = cauHinh;
+		this.nhaSX = nhaSX;
+		this.tinhNang = tinhNang;
+		System.out.println(toString());
+
+	}
+	
+	
+
+}

@@ -1,0 +1,17 @@
+package factory_pattern_car;
+
+public class Nexus implements Car{
+	private String xe;
+	private String cauHinh;
+	private String nhaSX;
+	private String tinhNang;
+
+	//
+	@Override
+	public void getInfo(String information, String configure, String producer, String feature) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+
+}

@@ -1,0 +1,14 @@
+package factory_pattern_car;
+
+import java.util.Scanner;
+
+public class FactoryPatternDemo {
+	public static void main(String[] args) {
+		String maxe, cauhinh, nsx, tinhnang;
+		
+		Scanner scannerChon = new Scanner(System.in);
+		Scanner scannerNhap = new Scanner(System.in);
+		
+	}
+
+}

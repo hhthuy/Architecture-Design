@@ -1,0 +1,7 @@
+package factory_pattern_car;
+
+public interface Car {
+	void info();
+
+	void info(String xe, String cauHinh, String nhaSX, String tinhNang);
+}

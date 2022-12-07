@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\HP\Downloads\19434551_HoThiHongThuy_DesignPatterns\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1985614957.index
+3778252334.index
+1427596719.index
+2095042909.index

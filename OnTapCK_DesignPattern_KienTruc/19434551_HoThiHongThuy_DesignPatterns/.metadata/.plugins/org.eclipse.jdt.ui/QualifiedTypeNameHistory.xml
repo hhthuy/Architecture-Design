@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.naming.Context"/>
+    <fullyQualifiedTypeName name="factory_pattern_car.HonDa"/>
+    <fullyQualifiedTypeName name="factory_pattern_car.Nexus"/>
+    <fullyQualifiedTypeName name="factory_pattern_car.Toyota"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="AbstractFactory.SanPham.SanPham"/>
+    <fullyQualifiedTypeName name="AbstractFactory.AbstractFactory"/>
+    <fullyQualifiedTypeName name="AbstractFactory.ChatLieuFactory"/>
+    <fullyQualifiedTypeName name="AbstractFactory.SanPhamFactory"/>
+    <fullyQualifiedTypeName name="AbstractFactory.ChatLieu.ChatLieu"/>
+    <fullyQualifiedTypeName name="AbstractFactory.ChatLieu.Nhua"/>
+    <fullyQualifiedTypeName name="AbstractFactory.ChatLieu.Go"/>
+</qualifiedTypeNameHistroy>

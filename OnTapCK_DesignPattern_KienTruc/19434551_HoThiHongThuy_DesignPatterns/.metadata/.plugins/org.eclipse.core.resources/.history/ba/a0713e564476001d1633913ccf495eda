@@ -1,0 +1,6 @@
+package factory_pattern_car;
+
+public interface Car {
+	void getInfo(String information, String configure, String producer, String feature);
+
+}

@@ -1,0 +1,8 @@
+package AbstractFactory;
+
+public class Snippet {
+	public static void main(String[] args) {
+		FactoryProducer
+	}
+}
+

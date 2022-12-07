@@ -1,0 +1,15 @@
+package AbstractFactory;
+
+import AbstractFactory.ChatLieu.ChatLieu;
+import AbstractFactory.SanPham.SanPham;
+
+public class MainDemo {
+	public static void main(String[] args) {
+		AbstractFactory chatlieuFactory = FactoryProducer.getFactory("ChatLieu");
+		AbstractFactory sanphamFactory = FactoryProducer.getFactory("SanPham");
+		
+		ChatLieu cl = chatlieuFactory.getChatLieu("Nhua", "A");
+		SanPham sp = sanphamFactory.getSanPham("Ban", 10, 10, 10);
+		System.out.println("San Pham: " + sp.getInfo() + "Chat Lieu"+ cl.getInfo());
+	}
+}

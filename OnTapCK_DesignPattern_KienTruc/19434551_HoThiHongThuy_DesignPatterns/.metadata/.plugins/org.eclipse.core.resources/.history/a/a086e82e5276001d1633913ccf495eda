@@ -1,0 +1,6 @@
+package factory_pattern_car;
+
+public interface Car {
+	void getInfo(String maxe, String cauHinh, String nhaSX, String tinhNang);
+
+}

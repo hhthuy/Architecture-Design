@@ -1,0 +1,15 @@
+package AbstractFactory.SanPham;
+
+public class Ban implements SanPham{
+	
+
+	@Override
+	public String getInfo() {
+		// TODO Auto-generated method stub
+		return "Ban [loai=" + loai + "]";
+	}
+
+	
+	
+	
+}

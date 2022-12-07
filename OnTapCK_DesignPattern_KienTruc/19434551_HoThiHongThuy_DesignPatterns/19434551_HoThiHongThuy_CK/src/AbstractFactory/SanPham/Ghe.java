@@ -1,0 +1,61 @@
+package AbstractFactory.SanPham;
+
+public class Ghe implements SanPham{
+
+	private float chieuDai;
+	private float chieuRong;
+	private float chieuCao;
+	
+	
+	public Ghe() {
+		super();
+	}
+
+	public Ghe(float chieuDai, float chieuRong, float chieuCao) {
+		super();
+		this.chieuDai = chieuDai;
+		this.chieuRong = chieuRong;
+		this.chieuCao = chieuCao;
+	}
+
+
+	public float getChieuDai() {
+		return chieuDai;
+	}
+
+
+	public void setChieuDai(float chieuDai) {
+		this.chieuDai = chieuDai;
+	}
+
+
+	public float getChieuRong() {
+		return chieuRong;
+	}
+
+
+	public void setChieuRong(float chieuRong) {
+		this.chieuRong = chieuRong;
+	}
+
+
+	public float getChieuCao() {
+		return chieuCao;
+	}
+
+
+	public void setChieuCao(float chieuCao) {
+		this.chieuCao = chieuCao;
+	}
+
+
+	@Override
+	public String getInfo() {
+		// TODO Auto-generated method stub
+		return "Ghe [chieuDai=" + chieuDai + ", chieuRong=" + chieuRong + ", chieuCao=" + chieuCao + "]";
+
+	}
+
+	
+
+}
