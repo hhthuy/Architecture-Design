@@ -24,3 +24,19 @@ Lab 5 (tr30) THỰC THI CHÉO (THI GK)
 THI GK: Thuc hien gui va nhan Oject bang C#/Java (MSMQ/Activequeue)
 
 THI TH TUAN 10: Web service
+
+THI CK: Design Pattern
+Ôn thi giới hạn gồm 6 mẫu
+1/ Nhóm khởi tạo:
+	- Factory Method Pattern
+	- Abstract Factory Pattern
+  
+2/ Nhóm cấu trúc
+- Bridge Pattern
+- Composite Pattern
+
+3/ Nhóm hành vi:
+- State Pattern
+- Strategy Pattern
+  
+  
